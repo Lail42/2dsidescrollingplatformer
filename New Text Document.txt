@@ -1,0 +1,1 @@
+In respect to the MIT License included in this code repository, please also note that this project and project code may not be used for commercial use due to limitations set forth by the GameMaker Educational License.
