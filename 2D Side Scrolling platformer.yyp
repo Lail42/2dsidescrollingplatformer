@@ -34,8 +34,12 @@
   },
   "name":"2D Side Scrolling platformer",
   "resources":[
+    {"id":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},},
+    {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_coin_idle","path":"sprites/spr_coin_idle/spr_coin_idle.yy",},},
+    {"id":{"name":"spr_floor_idle","path":"sprites/spr_floor_idle/spr_floor_idle.yy",},},
     {"id":{"name":"spr_player_idle","path":"sprites/spr_player_idle/spr_player_idle.yy",},},
   ],
   "resourceType":"GMProject",
