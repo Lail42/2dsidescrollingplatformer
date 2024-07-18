@@ -1,7 +1,6 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 124BE232
-Laila_player_movement
 /// @DnDComment : 1 would be pressing right$(13_10)-1 would be pressing left $(13_10)0 would be no input
 /// @DnDArgument : "expr" "keyboard_check(vk_right) - keyboard_check(vk_left)"
 /// @DnDArgument : "var" "move_x"
@@ -92,8 +91,3 @@ else
 /// @DnDArgument : "object" "obj_floor"
 /// @DnDSaveInfo : "object" "obj_floor"
 move_and_collide(move_x, move_y, obj_floor,4,0,0,walk_speed,jump_speed);
-=======
-/// @DnDArgument : "expr" "keyboard_check(vk_right)-keyboard_check(vk_left)"
-/// @DnDArgument : "var" "move_x"
-move_x = keyboard_check(vk_right)-keyboard_check(vk_left);
-main
