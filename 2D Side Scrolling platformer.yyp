@@ -37,6 +37,7 @@
     {"id":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},},
     {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
     {"id":{"name":"obj_goal","path":"objects/obj_goal/obj_goal.yy",},},
+    {"id":{"name":"obj_player_jump","path":"objects/obj_player_jump/obj_player_jump.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Obj_power_up_2","path":"objects/Obj_power_up_2/Obj_power_up_2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
