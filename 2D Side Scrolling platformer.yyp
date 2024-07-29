@@ -42,6 +42,7 @@
     {"id":{"name":"Obj_power_up_2","path":"objects/Obj_power_up_2/Obj_power_up_2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"background_music","path":"sounds/background_music/background_music.yy",},},
     {"id":{"name":"jump_sound","path":"sounds/jump_sound/jump_sound.yy",},},
     {"id":{"name":"spr_coin_idle","path":"sprites/spr_coin_idle/spr_coin_idle.yy",},},
     {"id":{"name":"spr_floor_idle","path":"sprites/spr_floor_idle/spr_floor_idle.yy",},},

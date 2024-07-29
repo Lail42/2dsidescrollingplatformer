@@ -14,6 +14,14 @@ if(move_y > 0 || move_y < 0)
 	/// @DnDSaveInfo : "spriteind" "spr_player_jump"
 	sprite_index = spr_player_jump;
 	image_index += 0;
+
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1.1
+	/// @DnDHash : 576167DA
+	/// @DnDParent : 7610ED3B
+	/// @DnDArgument : "soundid" "jump_sound"
+	/// @DnDSaveInfo : "soundid" "jump_sound"
+	audio_play_sound(jump_sound, 0, 0, 1.0, undefined, 1.0);
 }
 
 /// @DnDAction : YoYo Games.Collisions.If_Object_At
